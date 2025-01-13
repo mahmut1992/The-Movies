@@ -20,6 +20,7 @@ In this repository, API requests were made using HTML, CSS, and JavaScript. Some
 
 # Screenshot
 
+![Zight Recording 2025-01-14 at 12 19 27 AM](https://github.com/user-attachments/assets/760b5564-7e70-4c72-b6f5-493ea1db135d)
 
 
 # 📨Contact
